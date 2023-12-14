@@ -8,7 +8,7 @@ const Cfullstack = () => {
     {
       id:1,
       title: "The Top 10 Tools Every Full Stack Developer Should Master in 2023",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+      image: "https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150040428.jpg?size=626&ext=jpg&ga=GA1.1.378050825.1694242563&semt=ais",
       content: `
       As a full stack developer, having the right set of tools is crucial for your success. In the ever-evolving world of web development, staying updated with the latest tools can significantly enhance your productivity and make you a more competent developer.
   
@@ -36,7 +36,7 @@ const Cfullstack = () => {
     {
       id:2,
       title:" The Ultimate Guide to Real-World Full Stack Development Applications",
-      image: " https://www.guvi.in/blog/wp-content/uploads/2023/07/24746653_7002417-1-2048x1365.jpg",
+      image: " https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=996&t=st=1702546693~exp=1702547293~hmac=b603d80f77fb7b739c199199fb47a32e8ada06166afe139f96c4ff3fae1cd174",
       content:`There is something fascinating about a lone hacker in black hoodies using a single system and their skills to take down big corporations and their crony capitalism. The anecdote of a hacker has cultivated an ethos of individuality, corporate freedom, and distinct craftiness that can’t be denied. Also, the same archetype is visible in a number of pop-cultural references whether the famous TV series- Mr. Robot or real-life adaptations of Snowden and Julian Assange. Despite all the fascination of hacking, and hysteria, the field of cybersecurity is largely misunderstood outside of the realm of the IT ecosystem.
 
       On the other hand, organizations/individuals face a series of cyberattacks such as Phishing, malware, DDOS, Man-in-the-middle, SQL injection, Zero-day exploits, DNS tunneling, and many others. Most of these crimes are usually financially motivated. 
@@ -67,7 +67,7 @@ const Cfullstack = () => {
     {
       id:3,
       title: " How Long Would It Take to Be a Full Stack Developer?",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg ",
+      image: "https://img.freepik.com/free-vector/coding-concept-illustration_114360-939.jpg?w=740&t=st=1702546725~exp=1702547325~hmac=f09259b2cdc9677c658e297b89d73315caab59566bbff1a1022a5cc474d61542 ",
       content:`Have you ever wondered how much time it would take to become a skilled Full Stack Developer, capable of creating awesome websites and web applications? Whether you’re already familiar with coding or just starting, you might be curious about the learning process and how long it’ll take to reach your goals.
 
       In this blog, we’ll find out the time and effort needed to master Full Stack Development. We’ll explore what it includes, where you can learn, and the challenges you might face. So, get ready to discover how long it would take to learn Full Stack Development and get started on your exciting web development journey! Let’s go!
@@ -99,7 +99,7 @@ const Cfullstack = () => {
     
     <div className='grid-container'>
       
-    <div className='grid-item'><img   className='mypic'src='	https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg' alt='My'/> 
+    <div className='grid-item'><img   className='mypic'src='	https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150040428.jpg?size=626&ext=jpg&ga=GA1.1.378050825.1694242563&semt=ais' alt='My'/> 
     <h4>The Top 10 Tools Every Full Stack Developer Should </h4>
     <h4>  Master in 2023 </h4>
     <p style={{fontWeight:'lighter' ,fontStyle:'inherit'}}>As a full stack developer, having the right set of tools is crucial for your</p>
@@ -111,7 +111,7 @@ const Cfullstack = () => {
 
      </div>
 
-    <div className='grid-item'><img  className='mypic'src='	https://www.guvi.in/blog/wp-content/uploads/2023/07/24746653_7002417-1-2048x1365.jpg' alt='Mya'/> 
+    <div className='grid-item'><img  className='mypic'src='	https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=996&t=st=1702546693~exp=1702547293~hmac=b603d80f77fb7b739c199199fb47a32e8ada06166afe139f96c4ff3fae1cd174' alt='Mya'/> 
     
     <h4>The Ultimate Guide to Real-World  </h4>
     <h4> Full Stack Development Applications</h4>
@@ -121,7 +121,7 @@ const Cfullstack = () => {
 </Link>
     
     </div>
-    <div className='grid-item'><img  className='mypic'src='https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg' alt='Mya'/> 
+    <div className='grid-item'><img  className='mypic'src='https://img.freepik.com/free-vector/coding-concept-illustration_114360-939.jpg?w=740&t=st=1702546725~exp=1702547325~hmac=f09259b2cdc9677c658e297b89d73315caab59566bbff1a1022a5cc474d61542' alt='Mya'/> 
     
     <h4>Best Ways to Learn Full Stack Development in 2023</h4>
     <h4>in 2023</h4>

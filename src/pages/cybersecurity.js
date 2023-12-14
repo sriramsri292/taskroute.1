@@ -7,7 +7,7 @@ const Cybersecurity = () => {
     {
       id:1,
       title: "The Top 10 Tools Every Full Stack Developer Should Master in 2023",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+      image: "https://images.unsplash.com/photo-1614064548237-096f735f344f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       content: `
       As a full stack developer, having the right set of tools is crucial for your success. In the ever-evolving world of web development, staying updated with the latest tools can significantly enhance your productivity and make you a more competent developer.
   
@@ -35,7 +35,7 @@ const Cybersecurity = () => {
     {
       id:2,
       title:" The Ultimate Guide to Real-World Full Stack Development Applications",
-      image: " https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
+      image: " https://images.unsplash.com/photo-1618060932014-4deda4932554?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       content:`There is something fascinating about a lone hacker in black hoodies using a single system and their skills to take down big corporations and their crony capitalism. The anecdote of a hacker has cultivated an ethos of individuality, corporate freedom, and distinct craftiness that can’t be denied. Also, the same archetype is visible in a number of pop-cultural references whether the famous TV series- Mr. Robot or real-life adaptations of Snowden and Julian Assange. Despite all the fascination of hacking, and hysteria, the field of cybersecurity is largely misunderstood outside of the realm of the IT ecosystem.
 
       On the other hand, organizations/individuals face a series of cyberattacks such as Phishing, malware, DDOS, Man-in-the-middle, SQL injection, Zero-day exploits, DNS tunneling, and many others. Most of these crimes are usually financially motivated. 
@@ -66,7 +66,7 @@ const Cybersecurity = () => {
     {
       id:3,
       title: " How Long Would It Take to Be a Full Stack Developer?",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-2048x1072.png ",
+      image: "https://plus.unsplash.com/premium_photo-1674506654036-f20d11b8257e?q=80&w=2012&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D ",
       content:`Have you ever wondered how much time it would take to become a skilled Full Stack Developer, capable of creating awesome websites and web applications? Whether you’re already familiar with coding or just starting, you might be curious about the learning process and how long it’ll take to reach your goals.
 
       In this blog, we’ll find out the time and effort needed to master Full Stack Development. We’ll explore what it includes, where you can learn, and the challenges you might face. So, get ready to discover how long it would take to learn Full Stack Development and get started on your exciting web development journey! Let’s go!
@@ -97,7 +97,7 @@ console.log(arr2,arr3);
 
     <div className='grid-container'>
       
-      <div className='grid-item'><img  className='mypic'src='https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif' alt='My'/> 
+      <div className='grid-item'><img  className='mypic'src='https://images.unsplash.com/photo-1614064548237-096f735f344f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='My'/> 
       <h4>Cybersecurity Vs Ethical Hacking:  </h4>
       <h4> Top 10 Differences</h4>
       <p style={{fontWeight:'lighter' ,fontStyle:'inherit'}}>Cybersecurity & Ethical hacking and have been key in making sure that your data online</p>
@@ -106,7 +106,7 @@ console.log(arr2,arr3);
 </Link>
        </div>
 
-      <div className='grid-item'><img  className='mypic'src='https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif' alt='Mya'/> 
+      <div className='grid-item'><img  className='mypic'src='https://images.unsplash.com/photo-1618060932014-4deda4932554?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='Mya'/> 
       
       <h4>What is Cybersecurity? Importance and its uses & </h4>
      
@@ -118,7 +118,7 @@ console.log(arr2,arr3);
       
       
       </div>
-      <div className='grid-item'><img  className='mypic'src='https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-2048x1072.png' alt='Mya'/> 
+      <div className='grid-item'><img  className='mypic'src='https://plus.unsplash.com/premium_photo-1674506654036-f20d11b8257e?q=80&w=2012&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='Mya'/> 
       
       <h4>Top 10 Ethical Hacking Books </h4>
       <h4>for Beginner to Advanced</h4>
