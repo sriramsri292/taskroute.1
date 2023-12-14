@@ -98,6 +98,7 @@ const All = () => {
 
 
   return (
+    
     <div className='grid-container'>
       
       <div className='grid-item'><img  className='mypic'src='	https://w7.pngwing.com/pngs/536/943/png-transparent-drag-mobile-design-ui-ux-icon-thumbnail.png' alt='My'/> 
